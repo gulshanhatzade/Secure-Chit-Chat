@@ -1,8 +1,5 @@
 # NS assignment 1
 # Task -2
-# By-
-# Anurag Sarva
-# Gulshan Hatzade
 
 # Client Code
 
