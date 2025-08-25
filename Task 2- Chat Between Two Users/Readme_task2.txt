@@ -296,8 +296,8 @@ work of other students and/or persons. We pledge to uphold the principles of hon
 CSE@IITH. In addition, We understand my responsibility to report honor violations by other students if
 we become aware of it.
 
-Names:  Anurag Sarva, Gulshan Hatzade
+Names:  Gulshan Hatzade
 Date:   04/02/2025
-Signature: Anurag Sarva, Gulshan Hatzade
+Signature: Gulshan Hatzade
 
 
