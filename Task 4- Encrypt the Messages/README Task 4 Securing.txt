@@ -214,16 +214,7 @@ During a Chat Session:
    [Plain]: Hello, Bob!
    (User types “EOM” to end the session.)
 
-------------------------------------------------------------
-Contribution of Group Members
-------------------------------------------------------------
-- Anurag Sarva (CS24MTECH14003):
-     • Implemented server.py and contributed to dh_utils.py.
-     • Focused on setting up the central server and the DiffieHellman key exchange logic.
 
-- Gulshan Hatzade (CS24MTECH14006):
-     • Implemented crypto_utils.py and client.py.
-     • Focused on integrating AES encryption/decryption into the chat client and handling secure message transmission.
 
 ------------------------------------------------------------
 Acknowledgment
@@ -235,7 +226,7 @@ Anti-Plagiarism Statement
 ------------------------------------------------------------
 We certify that this assignment/report is our own work, based on our personal study and/or research and that we have acknowledged all material and sources used in its preparation, whether books, articles, packages, datasets, reports, lecture notes, or any other document, electronic or personal communication. We also certify that this assignment/report has not previously been submitted for assessment/project in any other course lab, except where specific permission has been granted from all course instructors involved, or at any other time in this course, and that we have not copied in part or whole or otherwise plagiarized the work of other students and/or persons. We pledge to uphold the principles of honesty and responsibility at CSE@IITH. In addition, We understand my responsibility to report honor violations by other students if we become aware of it.
 
-Names:  Anurag Sarva, Gulshan Hatzade
+Names:  Gulshan Hatzade
 Date:   04/02/2025
-Signature: Anurag Sarva, Gulshan Hatzade
+Signature: Gulshan Hatzade
 
